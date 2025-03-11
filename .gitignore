@@ -1,0 +1,9 @@
+.vscode/
+Assets/
+Library/
+Packages/
+ProjectSettings/
+UserSettings/
+Logs/
+project_04_13_24.sln
+.vsconfig
